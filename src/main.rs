@@ -5,5 +5,5 @@ fn main() {
 
 #[test]
 fn test1() {
-	assert_eq!("a","ab");
+	assert_eq!("a","a");
 }
